@@ -1,2 +1,3 @@
-![bitmoji2](https://user-images.githubusercontent.com/45779136/173282139-e27dc27f-a58f-4231-919a-6f0cda4073db.png)
+![bitmoji3](https://user-images.githubusercontent.com/45779136/173282890-e89f2ed7-0a7e-4de3-bed5-341bf94c7216.jpeg)
+
 
