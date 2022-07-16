@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ltweekes1@gmail.com**
 
-- ⚡ Fun fact **I do street photography for fun and want to own a coffee shop one day.**
+- ⚡ Fun fact **I want to own a coffee shop one day.**
 
 - 🥅 Goals in 2022 **Expand my frontend development knowledge, dive into backend development, and land a coding internship**
 
