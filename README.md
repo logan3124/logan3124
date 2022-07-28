@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Black Jack App](https://github.com/logan3124/Black-Jack-Web-Version-)
 
-- 🌱 I’m currently learning **React, Typescript, Mocha, and SCSS**
+- 🌱 I’m currently learning **React, Redux, Typescript, and SCSS**
 
 - 📫 How to reach me **ltweekes1@gmail.com**
 
