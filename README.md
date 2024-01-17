@@ -1,14 +1,14 @@
-![bitmoji3](https://user-images.githubusercontent.com/45779136/173282890-e89f2ed7-0a7e-4de3-bed5-341bf94c7216.jpeg)
+<h1>Hi my name is, Logan Weekes</h1>
 
 - 🔭 I’m currently working on [Punchshot Pickleball (Client Project)](https://github.com/GTWebDevOrg/Punchshot-Pickleball)
 
-- 🌱 I’m currently learning **MongoDB, Express, Backend Devlopment**
+- 🌱 I’m currently learning **AWS and Backend Devlopment**
 
 - 📫 How to reach me **ltweekes1@gmail.com**
 
 - ⚡ Fun fact **I want to own a coffee shop one day.**
 
-- 🥅 Goals in 2022 **Expand my frontend development knowledge, dive into backend development, and land a coding internship**
+- 🥅 Goals in 2024 **Deploy first iteration of my client project Punchshot Pickleball, complete my AWS devloper certification, and launch my personal portfolio website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
